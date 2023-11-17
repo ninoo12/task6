@@ -1,0 +1,135 @@
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    max-width: 600px;
+}
+a {
+    text-decoration: none;
+    color: #37393F;
+}
+.nav {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.header {
+    width: 1220px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.button {
+    display: flex;
+    background-color: #6B77E5;
+    width: 184px;
+    height: 65px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    padding-top: 22px;
+    color: white;
+    border: none;
+}
+.menu {
+    display: flex;
+    width: 825px;
+    justify-content: space-around;
+    align-items: center;
+}
+.article {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 136px;
+}
+.h1 {
+    font-size: 40px;
+}
+.box {
+    margin-top: 41px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.section1 {
+    width: 386px;
+    height: 383px;
+    background-color: #F4F4F4;
+    margin-left: 31px;
+}
+.text {
+color: #7D7D7D;
+}
+.span {
+    color:#6B77E5 ;
+}
+.h3 {
+    font-size: 40px;
+    position: relative;
+    top: 30%;
+}
+.background {
+    text-align: center;
+    margin-top: 60px;
+    align-items: center;
+    height: 557px;
+    background-image: url(Mask\ group.png);
+}
+.paragraph {
+    position: relative;
+    top: 30%;
+}
+.imageplay {
+    position: relative;
+    top: 35%;
+}
+.video {
+    position: relative;
+    top: 30%;
+}
+.meet {
+    font-size: 40px;
+}
+.ourteam {
+    margin-top: 130px;
+    text-align: center;
+}
+.box2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 41px;
+}
+.textt {
+    text-align: center;
+    background-color: white;
+    width: 341px;
+    height: 114px;
+    position: relative;
+    bottom: 22%;
+    left: 6%;
+}
+.name {
+font-size: 25px;
+position: relative;
+top: 20%;
+}
+.job {
+position: relative;
+top: 25%;
+}
+.card {
+    margin-left: 31px;
+}
+.-li {
+    margin-left: 35px;
+}
